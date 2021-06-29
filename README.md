@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Rapoport</h1>
-<h3 align="center">A brazillian Pythonista enthusiast</h3>
+<h3 align="center">A Brazillian pythonista enthusiast</h3>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
