@@ -14,7 +14,8 @@
 ---
 
 <a href="https://github-readme-stats-diego-rapoport.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api?username=diego-rapoport&show_icons=true&theme=radical&count_private=true" height="200"/></a>
-<img align="right" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api/top-langs/?username=diego-rapoport&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="300"/>
+<img alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api/top-langs/?username=diego-rapoport&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="300"/>
+
 <br>
 <br>
 <br>
@@ -25,7 +26,7 @@
 <br>
 <br>
 <br>
-<div align="left">
+<div>
     <h4>Operating System:</h4>
     <a href="https://archlinux.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png" alt="arch" width="90" height="80"/></a><sub>(I use Arch btw)</sub>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
