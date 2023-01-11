@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://github-readme-stats-diego-rapoport.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api?username=diego-rapoport&show_icons=true&theme=radical&count_private=true" height="250"/></a>
+<a href="https://github-readme-stats-diego-rapoport.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api?username=diego-rapoport&show_icons=true&theme=radical&count_private=true" height="200"/></a>
 <img align="right" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api/top-langs/?username=diego-rapoport&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="300"/>
 <br>
 <br>
