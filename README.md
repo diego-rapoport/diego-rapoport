@@ -2,22 +2,33 @@
 <h1 align="center">Hi 👋, I'm Diego Rapoport</h1>
 <h3 align="center">A Brazillian FullStack developer at X Digital Brasil.</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=diego-rapoport&label=Profile%20views&color=0e75b6&style=flat" alt="diego-rapoport" /></p>
+<a href="https://app.daily.dev/dinhego"><img src="https://api.daily.dev/devcards/5aa05ef0ae3043458c80a66d85b344cb.png?r=ak2" align="right" width="300" alt="Diego Rapoport's Dev Card"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=diego-rapoport&theme=onedark&column=4&theme=darkhub&margin-w=7&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
-<p align="right">Currently learning:
+<!-- <p align="right">Currently learning:
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="react" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 ---
 
-<a href="https://github-readme-stats-diego-rapoport.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api?username=diego-rapoport&show_icons=true&theme=radical&count_private=true" height="180">
-<img align="center" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api/top-langs/?username=diego-rapoport&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="300"/>
+<a href="https://github-readme-stats-diego-rapoport.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api?username=diego-rapoport&show_icons=true&theme=radical&count_private=true" height="250">
+<img align="right" alt="Diego Rapoport Stats" src="https://github-readme-stats-diego-rapoport.vercel.app//api/top-langs/?username=diego-rapoport&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="300"/>
 </a>
-
-<div align="center">
-  <h2 align="center">Tools:</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="left>
     <h4>Operating System:</h4>
     <a href="https://archlinux.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png" alt="arch" width="90" height="80"/> </a><sub>(I use Arch btw)</sub>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
