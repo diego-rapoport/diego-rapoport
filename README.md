@@ -1,6 +1,6 @@
 [![@diegorapoport's Holopin board](https://holopin.io/api/user/board?user=diegorapoport)](https://holopin.io/@diegorapoport)
 <h1 align="center">Hi 👋, I'm Diego Rapoport</h1>
-<h3 align="center">A Brazillian FullStack developer at X Digital Brasil.</h3>
+<h3 align="center">currently a Brazillian front-end developer at Risoluto Tecnologia.</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=diego-rapoport&label=Profile%20views&color=0e75b6&style=flat" alt="diego-rapoport" /></p>
 <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/diego-rapoport/diego-rapoport/blob/main/devcard.svg" width="300" alt="Diego Rapoport's Dev Card"/></a>
 
